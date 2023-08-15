@@ -1,6 +1,3 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "course_mod:item/nether_alexandrite_ore"
-  }
+  "parent": "course_mod:block/nether_alexandrite_ore"
 }
