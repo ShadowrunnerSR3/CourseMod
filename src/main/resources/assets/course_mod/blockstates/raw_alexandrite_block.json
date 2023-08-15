@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "course_mod:block/raw_alexandrite_block"
+    }
+  }
+}

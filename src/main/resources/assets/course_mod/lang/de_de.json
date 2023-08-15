@@ -1,3 +1,13 @@
 {
-  "item.course_mod.alexandrite": "Alexandrite"
+  "item.course_mod.alexandrite": "Alexandrite",
+  "item.course_mod.raw_alexandrite": "Raw Alexandrite",
+
+  "block.course_mod.alexandrite_block": "Alexandrite Block",
+  "block.course_mod.raw_alexandrite_block": "Raw Alexandrite Block",
+  "block.course_mod.alexandrite_ore": "Alexandrite Ore",
+  "block.course_mod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+  "block.course_mod.end_stone_alexandrite_ore": "End Stone Alexandrite Ore",
+  "block.course_mod.nether_alexandrite_ore": "Nether Alexandrite Ore",
+
+  "creativetab.course_tab": "Course Tab"
 }

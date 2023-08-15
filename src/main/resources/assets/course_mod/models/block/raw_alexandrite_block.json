@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "course_mod:block/raw_alexandrite_block"
+  }
+}
